@@ -5,7 +5,7 @@ A Friend in Your Pocket Application UI creation for patients living with dementi
 Designing an inclusive and accessibility-first user interface focused on usability for Persons With Disabilities.
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blue)
 ![Accessibility](https://img.shields.io/badge/Accessibility-WCAG-green)
-![Figma](https://img.shields.io/badge/Figma-Prototype-orange)
+![AdobeXD](https://img.shields.io/badge/AdobeXD-Prototype-orange)
 ![Mobile App](https://img.shields.io/badge/Mobile-App-purple)
 
 ## 📌 Project Overview
