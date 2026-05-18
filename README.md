@@ -1,11 +1,8 @@
-# "A Friend in Your Pocket" Application UI & UX design for Patients with Dementia
-A Friend in Your Pocket Application UI creation for patients living with dementia.
-# ♿ Accessible UI for PWD App
-
+# ♿ Accessible UI/UX for PWD App "A Friend in Your Pocket"
 Designing an inclusive and accessibility-first user interface focused on usability for Persons With Disabilities.
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blue)
 ![Accessibility](https://img.shields.io/badge/Accessibility-WCAG-green)
-![Figma](https://img.shields.io/badge/Figma-Prototype-orange)
+![AdobeXD](https://img.shields.io/badge/AdobeXD-Prototype-orange)
 ![Mobile App](https://img.shields.io/badge/Mobile-App-purple)
 
 ## 📌 Project Overview
