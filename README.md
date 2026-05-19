@@ -19,13 +19,18 @@ this design is for an app called “A Friend in Your Pocket” which is designed
 <img width="200" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/37aad415-aa39-408a-8dd4-b1f93482155d" />
 <img width="200" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/628ad234-a456-4b32-b2ef-1500e5e42f97" />
 </p>
----
+
 # Secondary User Interface
 <p align="left"
-<img width="200" alt="Screenshot 2026-05-19 at 19 35 54" src="https://github.com/user-attachments/assets/2406a1bc-0a5f-4d2a-8f99-f76e6449f937" />
 <img width="200" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/f69366c6-1d3e-4d0b-89fa-b88c2e097147" />
 <img width="200" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/cc8e1883-2fec-4cfa-bd2c-074f9fc0bbd8" />
 <img width="200" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/3c82872e-82bb-4619-a077-9683c0689b62" />
+<img width="200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/d528e376-21c2-47e0-9054-8721fd360363" />
+<img width="200" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/c84ee0c7-1f1b-40b9-a92c-c7223ad599d9" />
+<img width="200" alt="Screenshot 2024-04-25 105802" src="https://github.com/user-attachments/assets/622af75e-7e0c-4833-a4fa-88026da08cc2" />
+
+
+
 
 
 
