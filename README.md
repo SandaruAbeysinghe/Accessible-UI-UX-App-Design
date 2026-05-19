@@ -2,7 +2,7 @@
 
 Designing an inclusive and accessibility-first user interface focused on usability for Patiens Living with Dementia (PWD).
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blue)
-![Accessibility](https://img.shields.io/badge/Accessibility-WCAG-green)
+![Accessibility](https://img.shields.io/badge/Accessibility-green)
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-Prototype-orange)
 ![Mobile App](https://img.shields.io/badge/Mobile-App-purple)
 
