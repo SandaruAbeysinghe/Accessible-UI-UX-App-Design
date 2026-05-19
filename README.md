@@ -12,5 +12,6 @@ this design is for an app called “A Friend in Your Pocket” which is designed
 
 <p align="left">
 <img width="150" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/997f7f64-d506-4d8a-b1dd-b4219a69b168" />
-</p> <img width="150" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/e8f2310c-be9b-4229-96b0-2a75ccc8488b" />
+<img width="150" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/e8f2310c-be9b-4229-96b0-2a75ccc8488b" />
+</p>
 
