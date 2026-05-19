@@ -28,6 +28,7 @@ this design is for an app called “A Friend in Your Pocket” which is designed
 <img width="200" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/98d87600-6fb9-4709-a392-8b437f596931" />
 <img width="200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/d528e376-21c2-47e0-9054-8721fd360363" />
 <img width="200" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/c84ee0c7-1f1b-40b9-a92c-c7223ad599d9" />
+<img width="200" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/bd2bae71-9f41-443f-93dc-74fdaddc0996" />
 <img width="200" alt="Screenshot 2024-04-25 105802" src="https://github.com/user-attachments/assets/622af75e-7e0c-4833-a4fa-88026da08cc2" />
 
 
