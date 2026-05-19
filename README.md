@@ -1,3 +1,4 @@
+<img width="448" height="975" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/997f7f64-d506-4d8a-b1dd-b4219a69b168" />
 # ♿ Accessible UI/UX for PWD Application "A Friend in Your Pocket"
 
 Designing an inclusive and accessibility-first user interface focused on usability for Persons With Disabilities.
